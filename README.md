@@ -12,6 +12,7 @@ I turn data into clear, honest answers. I hold an **MSc in Data Science (Distinc
 
 | Project | What it does | Key result | Tools |
 |---|---|---|---|
+| [**NHS A&E performance analysis**](https://github.com/somynt/NHS-AE-Performance-Analysis) | Analyst-style study of official NHS England A&E data, 2010–2026: demand, the 4-hour standard and long waits for a bed | Found 12-hour waits for a bed up 175× since 2018-19; a data check confirmed a 49-month gap in the source data | SQL, Excel, Power BI (DAX), Python |
 | [**ADHD screening model**](https://github.com/somynt/Project_DataScience) *(MSc project)* | End-to-end pipeline: realistic synthetic school data, neural-network classifier, feature importance and a web app | F1 0.86, recall 0.84 on held-out data; honest comparison showing a simpler model performs as well | Python, PyTorch, scikit-learn, Flask |
 | [**Toxic comment classifier**](https://github.com/somynt/Assignment_2_LLM_Sem4) | Fine-tuned ELECTRA transformer to flag six types of toxic language, with word-level explanations | Macro ROC AUC 0.99; threshold tuning lifted macro F1 to 0.68 on a heavily imbalanced dataset | Hugging Face, PyTorch, Optuna, LIME |
 | [**Object detection & segmentation**](https://github.com/somynt/Semester_4) | YOLOv8 model finding and outlining people, cars, dogs and cakes in COCO photos, after detailed EDA and data cleaning | Box mAP50 0.44 overall, 0.58 on dogs; 0.6 ms per image | YOLOv8, OpenCV, pandas |
