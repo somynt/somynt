@@ -25,6 +25,7 @@ I turn data into clear, honest answers. I hold an **MSc in Data Science (Distinc
 
 - **Statistics:** hypothesis testing, regression, distributions, sampling, experimental design
 - **Machine learning:** classification, clustering, ensembles, neural networks, NLP (transformers), computer vision
+- **Data analysis & BI:** SQL (joins, aggregation, window functions), Excel (pivot tables, lookups, formulas), Power BI (data modelling, DAX, dashboards)
 - **Python:** pandas, NumPy, SciPy, scikit-learn, PyTorch, Hugging Face Transformers, matplotlib, seaborn
 - **Working practice:** Jupyter / Google Colab, Git & GitHub, reproducible pipelines, clear reporting for non-specialists
 
